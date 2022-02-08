@@ -17,12 +17,20 @@ HOW TO USE THIS CODE:
  -Flows will automaticaly create new entities in Hassio. 
  
  
- The following new entities can be used in the Energy Card o provide accurate energy usage and stats:
+_______________________________________________________
+
+# Energy Card Configuration
+The following new entities can be used in the Energy Card to provide accurate energy usage and stats:
  
- Gird Consumption: GivEnergy_Import_Energy_Total
- Return to grid: GivEnergy_Export_Energy_Total
- Solar Production: GivEnergy_pv_daily_yeild
- Battery In: GivEnergy_Battery_Charge_Today
- Battery Out: GivEnergy_Battery_Discharge_Today
+ 
+  -Gird Consumption: GivEnergy_Import_Energy_Total
+ 
+  -Return to grid: GivEnergy_Export_Energy_Total
+ 
+  -Solar Production: GivEnergy_pv_daily_yeild
+ 
+  -Battery In: GivEnergy_Battery_Charge_Today
+ 
+  -Battery Out: GivEnergy_Battery_Discharge_Today
 
 Enjoy!

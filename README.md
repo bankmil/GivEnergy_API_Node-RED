@@ -1,6 +1,9 @@
 # GivEnergy_API_Node-RED_Hassio
 This is a Pre-built REST API call for GivEnergy, it will gather information about your Givenergy battery and inverter and will import into Home Assistant. The new entities it creates can be used in the Energy Tabs
 
+Please follow the instructions here to generate an 'Old' API key, i would suggest importing the linked postman file to generate your API key:
+https://kb.givenergy.cloud/article.php?id=54&oid=8
+
 HOW TO USE THIS CODE:
 
  -Please follow the instructions in the below link to install Node-RED into Home Assistant
